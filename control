@@ -1,0 +1,9 @@
+Package: com.imokhles.oldprefsremover
+Name: OLDPrefsRemover
+Depends: mobilesubstrate, com.unlimapps.uaunbox
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: remove old preference files after uninstalling a tweak
+Maintainer: iMokhles
+Author: iMokhles
+Section: Tweaks
